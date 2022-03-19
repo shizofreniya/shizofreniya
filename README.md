@@ -3,7 +3,7 @@
 Люблю играть, смотреть аниме, пить энергетики и мурлыкать.
 
 ## Связь со мной
-- **Discord**: shizofreniya#2233
+- **Discord**: shizofreniya.#2233
 - **Telegram**: @kusb_za_ushko
 
 ## GitHub Статистика
