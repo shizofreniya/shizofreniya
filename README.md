@@ -1,6 +1,6 @@
 # Hey there, I'm Angelisa.
 
-### Connect with me
+### Contact with me
 - **Discord**: shizofreniya.#2233
 - **Telegram**: @kusb_za_ushko
 
