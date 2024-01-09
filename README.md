@@ -1,3 +1,3 @@
-**Discord**: Auroth.#2233
+**Discord**: neko.loli
 
-**Telegram**: @kusb_za_hvostik
+**Telegram**: @little_neko_loli
