@@ -3,6 +3,8 @@
 
 Являюсь владельцем, пожалуй, лучшего музыкального бота в Discord — [**Yukikaze**](https://boticord.top/yukikaze) 🎀
 
+![:shizofreniya](https://count.getloli.com/get/@:shizofreniya)
+
 ## Изучаемые языки и инструменты
 <img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NuxtJS-Dark.svg" /> <img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" /> <img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" /> <img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" /> <img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kotlin-Dark.svg" /> <img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" /> <img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" /> <img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg" />
 
